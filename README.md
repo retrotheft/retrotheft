@@ -2,10 +2,17 @@
 
 I'm Jim, an open source developer from Melbourne, Australia. I'm obsessed with elegant software architectures and minimal APIs.
 
+## Libraries
+
+### Svelte
+
+- [dnd-master](https://github.com/retrotheft/dnd-master) - Lightweight, powerful drag-and-drop
+- [Show & Svelte](https://github.com/retrotheft/show-and-svelte) - Create powerful presentations with Svelte
+- [attach-this](https://github.com/retrotheft/attach-this) - Ergonomic everyday helpers for Svelte | [Website](https://attach-this.vercel.app/)
+- [svelte-mainloop](https://github.com/retrotheft/svelte-mainloop) - A wrapper around mainloop.js | [Website](https://svelte-mainloop-site.vercel.app/)
+
 ## Websites
 
-- [attach-this](https://attach-this.vercel.app/) - Ergonomic everyday helpers for Svelte
-- [svelte-mainloop](https://svelte-mainloop-site.vercel.app/) - A wrapper around mainloop.js that makes it easy to join and leave the loop
 - [Svelte Reactivity Switchboard](https://svelte-reactivity-switchboard.vercel.app/) - An interactive cheatsheet for passing reactive state around your Svelte app
 
 ## Articles
@@ -14,9 +21,10 @@ I'm Jim, an open source developer from Melbourne, Australia. I'm obsessed with e
 
 ---
 
-3-space tab gang rise up!
 
 > A big thankyou to [epicenter](https://github.com/epicenter-so/epicenter) for sponsoring my open source work! Epicenter is an ecosystem of open-source, local-first apps, whose vision is to build a personal workspace where you own your data, choose your models, and replace siloed apps with open, interoperable alternatives. All while preserving authenticity and being free and open source.
+
+`3-space tab gang rise up!`
 
 <!--
 **retrotheft/retrotheft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
