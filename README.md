@@ -2,8 +2,6 @@
 
 I'm Jim, an open source developer from Melbourne, Australia. I'm obsessed with elegant software architectures and minimal APIs.
 
-> A big thankyou to [epicenter](https://github.com/epicenter-so/epicenter) for sponsoring my open source work! Epicenter is an ecosystem of open-source, local-first apps, whose vision is to build a personal workspace where you own your data, choose your models, and replace siloed apps with open, interoperable alternatives. All while preserving authenticity and being free and open source.
-
 ## Websites
 
 - [attach-this](https://attach-this.vercel.app/) - Ergonomic everyday helpers for Svelte
@@ -17,6 +15,8 @@ I'm Jim, an open source developer from Melbourne, Australia. I'm obsessed with e
 ---
 
 3-space tab gang rise up!
+
+> A big thankyou to [epicenter](https://github.com/epicenter-so/epicenter) for sponsoring my open source work! Epicenter is an ecosystem of open-source, local-first apps, whose vision is to build a personal workspace where you own your data, choose your models, and replace siloed apps with open, interoperable alternatives. All while preserving authenticity and being free and open source.
 
 <!--
 **retrotheft/retrotheft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
