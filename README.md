@@ -6,10 +6,10 @@ I'm Jim, an open source developer from Melbourne, Australia. I'm obsessed with e
 
 ### Svelte
 
-- [dnd-master](https://github.com/retrotheft/dnd-master) - Lightweight, powerful drag-and-drop
+- [dnd-master](https://github.com/retrotheft/dnd-master) - Lightweight, powerful drag-and-drop | [playground](https://svelte.dev/playground/90a07037a8e044be801de77690f1b838?version=5.40.1) | [article](https://dev.to/retrotheft/dnd-master-lightweight-powerful-drag-and-drop-for-svelte-1bhj)
 - [Show & Svelte](https://github.com/retrotheft/show-and-svelte) - Create powerful presentations with Svelte
-- [attach-this](https://github.com/retrotheft/attach-this) - Ergonomic everyday helpers for Svelte | [Website](https://attach-this.vercel.app/)
-- [svelte-mainloop](https://github.com/retrotheft/svelte-mainloop) - A wrapper around mainloop.js | [Website](https://svelte-mainloop-site.vercel.app/)
+- [attach-this](https://github.com/retrotheft/attach-this) - Ergonomic everyday helpers for Svelte | [website](https://attach-this.vercel.app/)
+- [svelte-mainloop](https://github.com/retrotheft/svelte-mainloop) - A wrapper around mainloop.js | [website](https://svelte-mainloop-site.vercel.app/)
 
 ## Websites
 
