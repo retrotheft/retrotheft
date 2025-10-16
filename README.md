@@ -2,8 +2,6 @@
 
 I'm Jim, an open source developer from Melbourne, Australia. I'm obsessed with elegant software architectures and minimal APIs.
 
-Currently working on: World Domination, a Svelte query engine and an architecture that provides perfect separation between query and design logic.
-
 ## Websites
 
 - [attach-this](https://attach-this.vercel.app/) - Ergonomic everyday helpers for Svelte
@@ -13,6 +11,10 @@ Currently working on: World Domination, a Svelte query engine and an architectur
 ## Articles
 
 - [How I Recreated Keynote's Magic Move with Svelte Snippets](https://dev.to/retrotheft/how-i-recreated-keynotes-magic-move-with-svelte-snippets-2p5) 
+
+---
+
+3-space tab gang rise up!
 
 <!--
 **retrotheft/retrotheft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
