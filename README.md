@@ -4,6 +4,13 @@ I'm Jim, an open source developer from Melbourne, Australia. In a previous life 
 
 As it turns out, several of the things I was working on by hand turn out to be incredibly useful for agentic development. Most of my current projects involve solving issues that coding with AI brings with it. Several of these I use in my day to day workflow, and are getting quite close to release, I swear.
 
+The TL;DR:
+
+- **Together** helps you manage your work and reduces cognitive workload and feelings of being overwhelmed. I can attest that it works incredibly well.
+- **Selectoplasm** is a radical new UI workflow that's highly preferable to asking an AI to do simple UI changes. It uses **Casca** under the hood.
+- **Improv** maintains code quality by tracking semantic intent through reified outcomes called Claims, and monitors changes via hashed fingerprints.
+- **Riley** is a roleplay engine that matured into a novel deterministic workflow architecture, with a traceable lineage to ECS and Blackboard, among others.
+
 ## Projects
 
 ### Together
