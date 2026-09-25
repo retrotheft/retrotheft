@@ -20,11 +20,11 @@ Selectoplasm allows you to completely externalise your styling from your app. It
 
 What if, like, Tailwind was its own LANGUAGE, man?
 
-Casca originated as the emmet-inspired syntax that Selectoplasm was built on. It wasn't until two years later that I realised it should be its own markup language. Essentially, Casca collapses both HTML and CSS into a one-dimensional markup language. This is incredibly powerful and agents seem to love it. It lets you do things like replay any changes to your website in realtime, express your component libraries, brand utilities, and design systems in simple readable files, and since HTML and CSS can be derived from casca, it's framework agnostic, so you can scaffold a fully built website to any framework. It also makes advanced CSS concepts like Lea Veroux's pseudo-private properties first-class citizens, so styling composability is a breeze.
+Casca originated as the emmet-inspired syntax that Selectoplasm was built on. It wasn't until two years later that I realised it should be its own thing. Essentially, Casca collapses both HTML and CSS into a one-dimensional markup language. This is incredibly powerful and agents seem to love it. It lets you do things like replay any changes to your website in realtime, express your component libraries, brand utilities, and design systems in simple readable files, and since HTML and CSS can be derived from Casca, it's framework agnostic, so you can scaffold a fully built website to any framework. It also makes advanced CSS concepts like Lea Veroux's [pseudo-private custom properties](https://lea.verou.me/blog/2021/10/custom-properties-with-defaults/) first-class citizens, so styling composability is a breeze.
 
 ### Improv
 
-Improv is a tool for maintaining code quality through constructive data modeling and claim fingerprinting. It conducts a census of your code, derives Claims from your authored spec, and refactors the code so that every Claim has a terminal citizen, usually an Outcome, that is easily tracked and reified. Combined with Effect-ts, this process is great at improving code readability, semantic intent, and at finding and correcting bugs before they happen. It also delivers a comprehensive derived spec which you can use as the window to your app, without needing to read the code. Every Claim is fingerprinted using a hash, so if the code changes, it's visible, and using this, agents can track not just when code changes, but also when code changes that shouldn't really be related to another Claim, helping reduce complection.
+Improv is a tool for maintaining code quality through constructive data modeling and claim fingerprinting. It derives Claims from your authored spec, and refactors the code so that every Claim has a reified outcome, which is very often just the success or fail case of a Result. Combined with Effect-ts, this process is great at improving code readability, semantic intent, and at finding and correcting bugs before they happen. It also delivers a comprehensive derived spec which you can use as the window to your app, without needing to read the code. Every Claim is fingerprinted using a hash, so if the code changes, it's visible, and using this, agents can track not just when code changes, but also when code changes that shouldn't really be related to another claim, helping reduce complection.
 
 ### Riley the Roleplay Engine
 
@@ -32,7 +32,7 @@ This started as a fairly simple LLM roleplay app, but has become its own archite
 
 ### Substrate
 
-Substrate is my internal tool for identifying shared code opportunities between my projects. It currently consists of my UI kit, AI services, Markdown and Syntax highlighting, Git control, and more.
+Substrate is my internal tool for identifying shared code opportunities between my projects. It currently consists of my UI Kit and AI Services.
 
 ---
 
