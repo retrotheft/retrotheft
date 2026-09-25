@@ -39,10 +39,6 @@ Improv is a tool for maintaining code quality through constructive data modeling
 
 This started as a fairly simple LLM roleplay app, but has become its own architecture - Oracle at the Gate - which is probably worth writing a paper about. It's a deterministic workflow engine that works with YAML files called Frames that can define an entire app's worth of behaviour. Its goal is to significantly reduce the reliance on LLMs for work that we should really still be doing deterministically. You know, programming. And yes, I am integrating Zev into it right now.
 
-### Substrate
-
-Substrate is my internal tool for identifying shared code opportunities between my projects. It currently consists of my UI Kit and AI Services.
-
 ---
 
 > A big thankyou to [epicenter](https://github.com/epicenter-so/epicenter) for sponsoring my open source work! Epicenter is an ecosystem of open-source, local-first apps, whose vision is to build a personal workspace where you own your data, choose your models, and replace siloed apps with open, interoperable alternatives. All while preserving authenticity and being free and open source.
