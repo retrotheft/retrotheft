@@ -6,10 +6,10 @@ As it turns out, several of the things I was working on by hand turn out to be i
 
 The TL;DR:
 
-- **Together** helps you manage your work and reduces cognitive workload and feelings of being overwhelmed. I can attest that it works incredibly well.
-- **Selectoplasm** is a radical new UI workflow that's highly preferable to asking an AI to do simple UI changes. It uses **Casca** under the hood.
-- **Improv** maintains code quality by tracking semantic intent through reified outcomes called Claims, and monitors changes via hashed fingerprints.
-- **Riley** is a roleplay engine that matured into a novel deterministic workflow architecture, with a traceable lineage to ECS and Blackboard, among others.
+- **Together** reduces cognitive workload and feelings of being overwhelmed.
+- **Selectoplasm** is a radical new approach to UI iteration. It uses **Casca** under the hood.
+- **Improv** maintains code quality by identifying hidden assumptions and tracking semantic intent.
+- **Riley** was a roleplay engine that matured into a novel deterministic workflow architecture.
 
 ## Projects
 
@@ -33,7 +33,7 @@ Casca originated as the emmet-inspired syntax that Selectoplasm was built on. It
 
 ### Improv
 
-Improv is a tool for maintaining code quality through constructive data modeling and claim fingerprinting. It derives Claims from your authored spec, and refactors the code so that every Claim has a reified outcome, which is very often just the success or fail case of a Result. Combined with Effect-ts, this process is great at improving code readability, semantic intent, and at finding and correcting bugs before they happen. It also delivers a comprehensive derived spec which you can use as the window to your app, without needing to read the code. Every Claim is fingerprinted using a hash, so if the code changes, it's visible, and using this, agents can track not just when code changes, but also when code changes that shouldn't really be related to another claim, helping reduce complection.
+Improv is a tool for maintaining code quality through constructive data modeling and claim fingerprinting. It derives Claims from a simple authored spec, identifies the assumptions that are hidden inside it, and then writes or refactors the code so that every Claim has a reified outcome, which is very often just the success or fail case of a Result. Combined with Effect-ts, this process is great at improving code readability, semantic intent, and at finding and correcting bugs before they happen. It also delivers a comprehensive derived spec which you can use as the window to your app, without needing to read the code. Every Claim is fingerprinted using a hash, so if the code changes, it's visible, and using this, agents can track not just when code changes, but also when code changes that shouldn't really be related to another claim, helping reduce complection.
 
 ### Riley the Roleplay Engine
 
