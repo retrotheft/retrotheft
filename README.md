@@ -37,7 +37,7 @@ Improv is a tool for maintaining code quality through constructive data modeling
 
 ### Riley the Roleplay Engine
 
-This started as a fairly simple LLM roleplay app, but has become its own architecture - Oracle at the Gate - which is probably worth writing a paper about. It's a deterministic workflow engine that works with YAML files called Frames that can define an entire app's worth of behaviour. Its goal is to significantly reduce the reliance on LLMs for work that we should really still be doing deterministically. You know, programming. And yes, I am integrating Zev into it right now.
+This started as a fairly simple LLM roleplay app, but has become its own architecture - Oracle at the Gate - which is probably worth writing a paper about. It's a deterministic workflow engine that works with YAML files called Frames that can define an entire app's worth of behaviour. Its goal is to significantly reduce the reliance on LLMs for work that we should really still be doing deterministically. You know, programming. And yes, I am integrating Jev into it right now.
 
 ---
 
