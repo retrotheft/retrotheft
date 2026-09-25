@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I'm Jim, an open source developer from Melbourne, Australia. In a previous life I was an avid Svelte developer, but have turned to the dark side and am now all in on Effect-ts and Foldkit, which I was surprised to find actually make agentic development very viable - something I was very skeptical about until mid 2026.
+I'm Jim, an open source developer from Melbourne, Australia. In a previous life I was an avid Svelte developer, but have turned to the dark side and am now all in on Effect-ts and Foldkit, which I was surprised to find actually make agentic development very viable - something I was very sceptical about until mid 2026, despite having used AI for several years before that.
 
 As it turns out, several of the things I was working on by hand turn out to be incredibly useful for agentic development. Most of my current projects involve solving issues that coding with AI brings with it. Several of these I use in my day to day workflow, and are getting quite close to release, I swear.
 
