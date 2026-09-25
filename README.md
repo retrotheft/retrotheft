@@ -14,7 +14,9 @@ This app is the only reason I'm able to work on all of these projects simultaneo
 
 One of the biggest headaches with agentic development is UI work and iteration. Man, really, it's horrible. Fortunately it turns out I accidentally built a solution to this in 2024 without realising it, before I even used AI much. (I think I was using Github Copilot at the time. Remember Github Copilot?)
 
-Selectoplasm allows you to completely externalise your styling from your app. It provides a way for an AI agent to interact with your UI and make changes that are completely reversible and replayable. It also provides a better division of labour - instead of asking the AI to change a font, you ask the AI to load a range of fonts into your interface, that you can then switch between in realtime. Essentially, it uses workflow latency as a measure of where the demarcation should be between what you do, and what the AI does. Actually, I think that's a running theme in a lot of my projects.
+Selectoplasm allows you to completely externalise your styling from your app. It provides a way for an AI agent to interact with your UI and make changes that are completely reversible and replayable. And not just that - the state history is composable, so you can view any element at any time, against any other element at any time.
+
+It also provides a better division of labour - instead of asking the AI to change a font, you ask the AI to load a range of fonts into your interface, that you can then switch between in realtime. Essentially, it uses workflow latency as a measure of where the demarcation should be between what you do, and what the AI does. Actually, I think that's a running theme in a lot of my projects.
 
 ### Casca
 
